@@ -765,5 +765,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ![menambahkan_gambar](README_img/ubah_tugas.png)
 ![menambahkan_gambar](README_img/ubah2_tugas.png)
 
-
+---
+# <P align="center"> THANK YOU SO MUCH FOR YOUR ATTENTION!! SEE YOU SOON!!
 
